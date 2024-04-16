@@ -243,6 +243,7 @@ def question10():
 
     # type: explain_string
     answers['(d) Example scenario where you would reverse choise in (c)'] = "Prefer the F-measure when early detection outweighs the risk of false positives and subsequent treatments are non-invasive."
+    return answers
 #-----------------------------------------------------------
 if __name__ == '__main__':
     answers_dict = {}
